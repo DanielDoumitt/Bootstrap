@@ -6,3 +6,10 @@
 .homepage{
     font-size: 40px;
 }
+.tableimg{
+    height:200px;
+    width:150px;
+}
+td:hover{
+    color:blue;
+}
